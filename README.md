@@ -11,7 +11,7 @@
 
 ```bash
 (git clone을 하는 경우)
-git clone https://github.com/Park-Yul/CNN_Team_Project.git
+git clone https://github.com/Park-Yul/Project2-YOLO26s-on-Raspberry-Pi-5.git
 
 (unzip을 하는 경우)
 unzip Team6_Project_On_Device_AI.zip
